@@ -4,7 +4,7 @@ Firmware for the Nintendo 3DS
 # Utility
 Firmware database for a discord bot
 
-![poyo](https://github.com/THZoria/3DS_Firmware/assets/50277488/4b2df15c-fe74-49af-a033-d0984e69d201)
+![poyo](https://github.com/THZoria/3DS_Firmware/assets/50277488/209d8897-33e0-4673-a53a-45729d79cffc)
 
 # More information
 
