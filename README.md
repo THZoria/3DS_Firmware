@@ -41,8 +41,6 @@ I'd recommend factory wiping the 3ds to clear any possible bad and left over tic
 # Credits 
 Thankyou all you kind people for making this project a reality i couldn't of done it without all of you 
 
-XP for providing the tools neccessary for making this preservation project even possible
-
 Dandelion for helping provide additional firmware's
 
 Rare Gaming Dumps for their contrabution in providing me with rare 3ds firmware 
