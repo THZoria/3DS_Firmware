@@ -37,6 +37,25 @@ if you don't do this it can crash while using the firmware so please do this
 # After finishing for people who peformed downgrades 
 I'd recommend factory wiping the 3ds to clear any possible bad and left over tickets from the previous firmware this can help improve stability and stop bugs from occuring as a result of this
 
+
+# Credits 
+Thankyou all you kind people for making this project a reality i couldn't of done it without all of you 
+
+XP for providing the tools neccessary for making this preservation project even possible
+
+Dandelion for helping provide additional firmware's
+
+Rare Gaming Dumps for their contrabution in providing me with rare 3ds firmware 
+
+ZeroSkill for helping me with bugs and issues 
+
+adev531 for providing Koera New firmware 
+
+cooolgamer for helping sort out stuff and research for me 
+
+Media Preservation Community for their help as well with support 
+
+
 # Utility
 Firmware database for a discord bot
 
