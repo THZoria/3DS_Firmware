@@ -53,7 +53,9 @@ cooolgamer for helping sort out stuff and research for me
 
 Media Preservation Community for their help as well with support 
 
-
+# hello again if you want to gain instant access to these firmware's without waiting on me to slowly upload them 
+https://drive.google.com/drive/folders/1EI5g_AA2CrVZ5U3L-tfcMxlhl6Q0yZHa?usp=drive_link
+they are on this google drive link for it all enjoy
 # Utility
 Firmware database for a discord bot
 
